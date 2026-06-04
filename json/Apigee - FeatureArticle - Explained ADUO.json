@@ -1,0 +1,544 @@
+{
+    "id": "2A67N47ntcdQbKhHOd7GdD",
+    "createdAt": "2026-05-18T11:26:54.784Z",
+    "sensitive": false,
+    "updatedAt": "2026-05-18T11:26:54.784Z",
+    "realUpdatedAt": "2026-05-18T11:26:57.168Z",
+    "locale": "en",
+    "title": "EXPLAINED: What is F1’s ‘ADUO’ engine upgrade system – and how will it work?",
+    "slug": "explained-what-is-f1s-aduo-engine-upgrade-system-and-how-will-it-work",
+    "abstract": "F1.com runs through a new development mechanism available to power unit manufacturers from the 2026 season.",
+    "seoTitle": "EXPLAINED: What is F1’s ‘ADUO’ engine upgrade system – and how will it work?",
+    "articleType": "Feature",
+    "metaDescription": "To encourage close competition, F1’s Technical Regulations for 2026 and beyond will allow manufacturers to make updates to their homologated power units – in specific situations – under a new development mechanism. But what is the so-called ‘ADUO’, and how does it work? F1.com presents an all-in-one explainer… ",
+    "displayTitle": "What is F1’s ‘ADUO’ engine upgrade system?",
+    "socialShareTitle": "What is F1’s ‘ADUO’ engine upgrade system?",
+    "socialShareImage": {
+        "title": "GettyImages-2266409165-1.png",
+        "path": "/fom-website/2026/Miscellaneous/GettyImages-2266409165-1.png",
+        "url": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1779094707/fom-website/2026/Miscellaneous/GettyImages-2266409165-1.png",
+        "public_id": "fom-website/2026/Miscellaneous/GettyImages-2266409165-1",
+        "raw_transformation": "t_16by9Centre/f_auto/q_auto",
+        "width": 1920,
+        "height": 1080
+    },
+    "contentType": "article",
+    "hero": {
+        "contentType": "atomImage",
+        "fields": {
+            "image": {
+                "title": "GettyImages-2266409165-1.png",
+                "path": "/fom-website/2026/Miscellaneous/GettyImages-2266409165-1.png",
+                "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1779094707/fom-website/2026/Miscellaneous/GettyImages-2266409165-1.png",
+                "public_id": "fom-website/2026/Miscellaneous/GettyImages-2266409165-1",
+                "raw_transformation": "f_auto/q_auto",
+                "width": 1920,
+                "height": 1080
+            },
+            "isLogo": false
+        }
+    },
+    "body": [
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "__To encourage close competition, F1’s Technical Regulations for 2026 and beyond will allow manufacturers to make updates to their homologated power units – in specific situations – under a new development mechanism. But what is the so-called ‘ADUO’, and how does it work? F1.com presents an all-in-one explainer…__\n\n### What does ‘ADUO’ mean?\n\nFirst up, ‘ADUO’ stands for ‘Additional Development and Upgrade Opportunities’.\n\nDuring specific periods of each F1 season from 2026 to 2030, covering the sport’s [latest power unit cycle](https://www.formula1.com/en/latest/article/2026-regulations-explained-all-you-need-to-know-about-f1s-new-power-units.14jfv7a36905uDJDdNyfQd), governing body the [FIA](https://www.fia.com/) will monitor each manufacturer’s Internal Combustion Engine (ICE) performance, in turn creating an ‘ICE Performance Index’."
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "Various factors are considered, spanning engine speed, input shaft torque and MGU-K (Motor Generator Unit - Kinetic) power, as well as a weighting for power sensitivity on lap time across measured laps.\n\nAs the ADUO assessment focuses on the ICE alone, the FIA admits it is not representative of full power unit performance, given that the ERS (Energy Recovery System) also plays a crucial role in the overall power output."
+            }
+        },
+        {
+            "contentType": "atomImage",
+            "fields": {
+                "caption": "F1 introduced new cars and new power units for the 2026 season",
+                "image": {
+                    "title": "2026_Explainer_FIA_Rear_3_4_1920x1080.avif",
+                    "path": "/fom-website/Unlocked2026/2026_Explainer_FIA_Rear_3_4_1920x1080.avif",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1773657168/fom-website/Unlocked2026/2026_Explainer_FIA_Rear_3_4_1920x1080.avif",
+                    "public_id": "fom-website/Unlocked2026/2026_Explainer_FIA_Rear_3_4_1920x1080",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "isLogo": false
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "### When does ADUO come into play?\n\nIn short, when a power unit manufacturer’s ICE is 2% or more behind the best-performing engine in the Performance Index, ADUO is granted.\n\nAs set out in Article 4.3 of Appendix C5 of the 2026 F1 Technical Regulations, if a manufacturer’s power unit is at least 2% but less than 4% down on the leading ICE, they will be eligible for one additional homologation upgrade in the current season, and an additional upgrade in the following season. \n\nPower unit manufacturers whose Performance Index is at least 4% below the leading ICE will be eligible for two additional upgrades in the current season, and two more during the following season."
+            }
+        },
+        {
+            "contentType": "linkItem",
+            "fields": {
+                "title": "All you need to know about F1’s new power units",
+                "webUrl": "https://www.formula1.com/en/latest/article/2026-regulations-explained-all-you-need-to-know-about-f1s-new-power-units.14jfv7a36905uDJDdNyfQd",
+                "openInNewTab": false
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "### When are the monitoring periods?\n\nUnder Article 4.2 of Appendix C5 of the 2026 F1 Technical Regulations, there are three periods during the 2026 season when power unit manufacturers’ ICE performance will be monitored.\n\nThese three periods were initially listed as Rounds 1-6, 7-12 and 13-18.\n\nHowever, given that the first period – including the Australian, Chinese, Japanese, Bahrain, Saudi Arabian and Miami Grands Prix – was affected by the Sakhir and Jeddah events not taking place, adjustments followed."
+            }
+        },
+        {
+            "contentType": "atomImage",
+            "fields": {
+                "caption": "Power unit performance in 2026 will be monitored across three set periods",
+                "image": {
+                    "title": "SUZUKA, JAPAN - MARCH 29: Oscar Piastri of Australia driving the (81) McLaren MCL40 Mercedes leads",
+                    "path": "/trackside-images/2026/F1_Grand_Prix_Of_Japan/2268866894.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1774762016/trackside-images/2026/F1_Grand_Prix_Of_Japan/2268866894.jpg",
+                    "public_id": "trackside-images/2026/F1_Grand_Prix_Of_Japan/2268866894",
+                    "raw_transformation": "t_16by9North/f_auto/q_auto",
+                    "width": 3277,
+                    "height": 2184
+                },
+                "isLogo": false
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "The first period is now formed of the campaign’s opening five rounds (Australia, China, Japan, Miami and Canada), with results to be communicated no later than two weeks after the Canadian Grand Prix.\n\nThe second period will cover Rounds 6-11 (from Monaco to Hungary), while the third period will cover Rounds 12-18 (from the Netherlands to Mexico City).\n\nOnce results have been communicated, power unit manufacturers eligible for ADUO will receive notifications detailing their allowance, and will be able to implement any upgrades as early as the following race. "
+            }
+        },
+        {
+            "contentType": "atomVideo",
+            "fields": {
+                "caption": "The ultimate guide to the 2026 F1 cars",
+                "videoId": "1858214949253929518",
+                "videoDuration": "11:16",
+                "videoDurationInSeconds": 676,
+                "isProtected": false,
+                "thumbnail": {
+                    "title": "The ultimate guide to the 2026 F1 cars",
+                    "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/640x360/match/image.jpg",
+                    "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/640x360/match/image.jpg",
+                    "renditions": {
+                        "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/206x116/match/image.jpg",
+                        "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/412x232/match/image.jpg",
+                        "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/319x179/match/image.jpg",
+                        "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/638x359/match/image.jpg",
+                        "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/432x243/match/image.jpg",
+                        "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/864x486/match/image.jpg",
+                        "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/658x370/match/image.jpg",
+                        "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/1316x740/match/image.jpg",
+                        "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/997x561/match/image.jpg",
+                        "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/eec9c487-26d2-488b-85b6-916588ae16cb/b1f52d04-5224-484a-a491-09e9060840b6/1994x1122/match/image.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "### What upgrades can be made?\n\nOnce ADUO comes into play, developments can be applied to a range of power unit components.\n\nAs per the FIA’s list, permitted upgrades include elements of the ICE, engine exhaust system, Turbocharger and waste gate/pop-off, ICE- or exhaust-mounted electrical components and sensors, ERS (and associated cooling systems), the MGU-K, and the car’s Control Electronics, along with hydraulic functions, fluids and ballast.\n\nADUO upgrades are not cumulative within a season, and will only be granted on the first occasion a manufacturer is deemed as eligible to make developments.\n\nMeanwhile, any upgrade not used in a specified season will be forfeited. So, if a manufacturer is granted one upgrade for 2026 and one upgrade for 2027, the 2026 upgrade must be introduced before the end of that season, or it will be forfeited, while the upgrade for 2027 remains valid."
+            }
+        },
+        {
+            "contentType": "linkItem",
+            "fields": {
+                "title": "Proposals agreed in principle for further evolutionary changes to 2026 regulations",
+                "webUrl": "https://www.formula1.com/en/latest/article/proposals-agreed-in-principle-for-further-evolutionary-changes-to-2026-regulations.2nNLMoEsoD8JYt9rb8zcJB",
+                "openInNewTab": false
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "### What about F1’s cost cap?\n\nSince 2021, teams’ annual spends have been controlled under [the F1 cost cap](https://www.formula1.com/en/latest/article/explained-what-is-the-f1-cost-cap-and-why-has-it-gone-up.2tYtDIe5SbE5utjThctBT3).\n\nAs such, questions have arisen over how the ADUO will work under such restrictions – but FIA Single Seater Director Nikolas Tombazis moved to allay concerns.\n\n“It’s important to make clear that ADUO is not a kind of balance of performance mechanism,” he commented. “A team or manufacturer will not suddenly get greater fuel flow rate or more or less ballast.\n\n“It is, in fact, a cost cap relief mechanism, where a PU manufacturer meeting ADUO criteria during a review period is given an opportunity to develop its engine through a downward adjustment."
+            }
+        },
+        {
+            "contentType": "atomImage",
+            "fields": {
+                "caption": "The FIA’s Tombazis has described ADUO as “a cost cap relief mechanism”",
+                "image": {
+                    "title": "SPA, BELGIUM - AUGUST 27: Nikos Tombazis, FIA Single Seater Technical Director attends the Team",
+                    "path": "/content/dam/fom-website/sutton/2022/Belgium/Saturday/1418400281.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1678375021/content/dam/fom-website/sutton/2022/Belgium/Saturday/1418400281.jpg",
+                    "public_id": "content/dam/fom-website/sutton/2022/Belgium/Saturday/1418400281",
+                    "raw_transformation": "t_16by9North/f_auto/q_auto",
+                    "width": 5240,
+                    "height": 2948
+                },
+                "isLogo": false
+            }
+        },
+        {
+            "contentType": "atomRichText",
+            "fields": {
+                "richTextBlock": "“That’s not to underestimate it, but a manufacturer will still need to make the best engine in order to win. It’s not a magic bullet, or like the FIA is handing out brownie points to somebody who’s behind. It simply provides them with leeway to develop their power unit within the framework laid out by the Technical Regulations.”\n\nArticle E4.1.1.t of the 2026 Formula 1 Regulations sets out the positive impacts of the ADUO on power unit manufacturers’ expenditure.\n\nEvery manufacturer sitting 2-4% behind will get allowances up to USD $3.0 million; from 4-6% behind they will get up to USD $4.65m; from 6-8% they will get up to USD $6.35m; and from 8%-10% they will get up to USD $8m.\n\nManufacturers with a deficit of 10% or more will get an allowance for each ADUO period of up to USD $11m and, in 2026 only, further support might be offered."
+            }
+        },
+        {
+            "contentType": "atomPromotion",
+            "fields": {
+                "promoImage": {
+                    "title": "Monaco.png",
+                    "path": "/content/dam/fom-website/2018-redesign-assets/Racehub header images 16x9/Monaco.png",
+                    "url": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1749216666/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Monaco.png",
+                    "public_id": "content/dam/fom-website/2018-redesign-assets/Racehub header images 16x9/Monaco",
+                    "raw_transformation": "t_16by9Centre/f_auto/q_auto",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "promoHeaderText": "RACE TICKETS - MONACO",
+                "promoBodyText": "Don't miss your chance to experience the world's most famous street circuit...",
+                "promoCtaLabel": "BOOK NOW",
+                "promoCtaLink": "https://tickets.formula1.com/en/f1-3202-monaco",
+                "openNewWindow": false,
+                "variant": "Generic-D"
+            }
+        }
+    ],
+    "articleTags": [
+        {
+            "id": "3MCJ3owpZpby8mcOoUVtIi",
+            "fields": {
+                "tagName": "Explained",
+                "tagGroup": "Content - Subject",
+                "tagDescription": "Current and breaking Explained F1 stories. Your go-to source for Formula 1 news, podcasts, highlights, results, and expert commentary.",
+                "seoTitle": "Explained, News and Videos | Formula 1",
+                "image": {
+                    "title": "2025-start-barcelona.png",
+                    "path": "/fom-website/2025/Miscellaneous/2025-start-barcelona.png",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1749481747/fom-website/2025/Miscellaneous/2025-start-barcelona.png",
+                    "public_id": "fom-website/2025/Miscellaneous/2025-start-barcelona",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 1920,
+                    "height": 1080
+                }
+            }
+        },
+        {
+            "id": "2Rkcy0QqWsqog4gsi6mQ2C",
+            "fields": {
+                "tagName": "FIA",
+                "tagGroup": "Content - Subject",
+                "tagDescription": "Current and breaking F1 FIA stories. Your go-to source for Formula 1 news, highlights, results, and expert commentary.",
+                "seoTitle": "FIA News and Videos | Formula 1",
+                "image": {
+                    "title": "FIA.jpg",
+                    "path": "/content/dam/fom-website/2018-redesign-assets/Tag%20collections/Other/FIA.jpg",
+                    "url": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Tag%20collections/Other/FIA.jpg",
+                    "public_id": "content/dam/fom-website/2018-redesign-assets/Tag%20collections/Other/FIA",
+                    "raw_transformation": "f_auto/q_auto"
+                }
+            }
+        },
+        {
+            "id": "55LpDLkFiOGZ7W2byMrm5g",
+            "fields": {
+                "tagName": "2026 regulations",
+                "tagGroup": "Content - Subject",
+                "tagDescription": "Current and breaking 2026 regulations F1 stories. Your go-to source for Formula 1 news, podcasts, highlights, results, and expert commentary.",
+                "seoTitle": "2026 Regulations, News and Videos | Formula 1",
+                "image": {
+                    "title": "2026_Explainer_FIA_Rear_3_4_1920x1080.jpg",
+                    "path": "/fom-website/2026 regulations/2026_Explainer_FIA_Rear_3_4_1920x1080.jpg",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1765792988/fom-website/2026%20regulations/2026_Explainer_FIA_Rear_3_4_1920x1080.jpg",
+                    "public_id": "fom-website/2026 regulations/2026_Explainer_FIA_Rear_3_4_1920x1080",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 1920,
+                    "height": 1080
+                }
+            }
+        },
+        {
+            "id": "5TppklcnBMKv6j5ccPjaaa",
+            "fields": {
+                "tagName": "2026",
+                "tagGroup": "Year"
+            }
+        }
+    ],
+    "darkModeOnly": false,
+    "isProtected": false,
+    "leadsourceType": "Article",
+    "isExclusiveArticle": false,
+    "displayPrimaryTag": false,
+    "richArticle": false,
+    "canonicalUrl": "https://www.formula1.com/en/latest/article/explained-what-is-f1s-aduo-engine-upgrade-system-and-how-will-it-work.2A67N47ntcdQbKhHOd7GdD",
+    "latest": [
+        {
+            "id": "frrDDlNZLsxcuS7uY4fHY",
+            "updatedAt": "2026-05-29T08:16:11.805Z",
+            "realUpdatedAt": "2026-05-29T08:16:15.783Z",
+            "locale": "en",
+            "title": "Alonso outlines when Aston Martin expect performance step forward",
+            "slug": "alonso-outlines-when-aston-martin-are-expecting-performance-step-forward-as-he-explains-extra-hope-for-monaco",
+            "articleType": "News",
+            "metaDescription": "After some further signs of progress for Aston Martin in Canada, Fernando Alonso has indicated when there might be a step forward in performance.",
+            "thumbnail": {
+                "image": {
+                    "title": "MONTREAL, QUEBEC - MAY 24: Fernando Alonso of Spain and Aston Martin F1 Team arrives in the Paddock",
+                    "path": "/fom-website/2026/Aston Martin/GettyImages-2277835754.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9South/f_auto/q_auto/v1780042512/fom-website/2026/Aston%20Martin/GettyImages-2277835754.jpg",
+                    "public_id": "fom-website/2026/Aston Martin/GettyImages-2277835754",
+                    "raw_transformation": "t_16by9South/f_auto/q_auto",
+                    "width": 1920,
+                    "height": 1280
+                }
+            },
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "3ePYhgFv6WcJZNVpE3psEe",
+            "updatedAt": "2026-05-28T18:16:03.333Z",
+            "realUpdatedAt": "2026-05-28T20:48:39.838Z",
+            "locale": "en",
+            "title": "CATCH-UP: Watch the F1 Sim Racing World Championship season finale",
+            "slug": "livestream-watch-all-the-action-from-round-12-of-the-2026-f1-sim-racing-world-championship",
+            "articleType": "Video",
+            "metaDescription": "Catch all the action from Round 12, which marks the finale of the 2026 F1 Sim Racing World Championship.\n\n",
+            "thumbnail": {
+                "image": {
+                    "title": "DSC03498.jpg",
+                    "path": "/fom-website/2026/F1 Sim Racing World Championship/DSC03498.jpg",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1779886134/fom-website/2026/F1%20Sim%20Racing%20World%20Championship/DSC03498.jpg",
+                    "public_id": "fom-website/2026/F1 Sim Racing World Championship/DSC03498",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 9389,
+                    "height": 5662
+                }
+            },
+            "mediaIcon": "Video",
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "65iRHYDyNixO64I9iFHLDd",
+            "updatedAt": "2026-05-28T16:09:04.537Z",
+            "realUpdatedAt": "2026-05-28T16:26:06.901Z",
+            "locale": "en",
+            "title": "Newly-discovered species of wasp named after Piastri",
+            "slug": "newly-discovered-species-of-wasp-named-after-oscar-piastri",
+            "articleType": "News",
+            "metaDescription": "McLaren's Oscar Piastri has received the unique honour of having a newly-discovered species of wasp named after him.",
+            "thumbnail": {
+                "image": {
+                    "title": "MONTREAL, QUEBEC - MAY 22: Oscar Piastri of Australia and McLaren arrives in the Paddock prior to",
+                    "path": "/trackside-images/2026/F1_Grand_Prix_of_Canada___Practice__Sprint_Qualifying/2277681128.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1779463177/trackside-images/2026/F1_Grand_Prix_of_Canada___Practice__Sprint_Qualifying/2277681128.jpg",
+                    "public_id": "trackside-images/2026/F1_Grand_Prix_of_Canada___Practice__Sprint_Qualifying/2277681128",
+                    "raw_transformation": "t_16by9North/f_auto/q_auto",
+                    "width": 5058,
+                    "height": 3372
+                }
+            },
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "2NkX0ZfU0ALtg0kHG5vrOq",
+            "updatedAt": "2026-05-28T15:46:31.574Z",
+            "realUpdatedAt": "2026-05-28T17:22:35.714Z",
+            "locale": "en",
+            "title": "CATCH-UP: R12 Qualifying of the F1 Sim Racing World Championship",
+            "slug": "livestream-watch-qualifying-from-round-12-of-the-2026-f1-sim-racing-world-championship",
+            "articleType": "Video",
+            "metaDescription": "The 2026 F1 Sim Racing World Championship concludes with Round 12, where the racers will take on the Abu Dhabi Grand Prix.\n",
+            "thumbnail": {
+                "image": {
+                    "title": "DSC03498.jpg",
+                    "path": "/fom-website/2026/F1 Sim Racing World Championship/DSC03498.jpg",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1779886134/fom-website/2026/F1%20Sim%20Racing%20World%20Championship/DSC03498.jpg",
+                    "public_id": "fom-website/2026/F1 Sim Racing World Championship/DSC03498",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 9389,
+                    "height": 5662
+                }
+            },
+            "mediaIcon": "Video",
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "5JPF2yymCPJRv7ZH5BIOZm",
+            "updatedAt": "2026-05-28T14:22:34.255Z",
+            "realUpdatedAt": "2026-05-29T08:21:39.138Z",
+            "locale": "en",
+            "title": "Lowdon vows there won’t be repeat of Perez suspension issue",
+            "slug": "lowdon-hails-real-progress-for-cadillac-after-battles-with-haas-in-canada",
+            "articleType": "News",
+            "metaDescription": "Cadillac Team Principal Graeme Lowdon was left encouraged by the positive signs of progress displayed by the squad during the Canadian Grand Prix weekend, as he explained the reasons behind Sergio Perez’s suspension failure.  ",
+            "thumbnail": {
+                "image": {
+                    "title": "MONTREAL, QUEBEC - MAY 21: Graeme Lowdon, Team Principal of Cadillac F1 Team arrives in the Paddock",
+                    "path": "/trackside-images/2026/F1_Grand_Prix_of_Canada___Previews/2277492731.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9South/f_auto/q_auto/v1779375831/trackside-images/2026/F1_Grand_Prix_of_Canada___Previews/2277492731.jpg",
+                    "public_id": "trackside-images/2026/F1_Grand_Prix_of_Canada___Previews/2277492731",
+                    "raw_transformation": "t_16by9South/f_auto/q_auto",
+                    "width": 4500,
+                    "height": 3000
+                }
+            },
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        }
+    ],
+    "relatedArticles": [
+        {
+            "id": "5pts2M8D4xR4KldeYRht87",
+            "updatedAt": "2026-05-26T09:39:27.507Z",
+            "realUpdatedAt": "2026-05-26T09:40:54.139Z",
+            "locale": "en",
+            "title": "Montreal chaos proves why bettors can't get complacent",
+            "slug": "canadian-grand-prix-mayhem-proves-why-f1-betting-fans-cant-get-complacent",
+            "articleType": "Feature",
+            "metaDescription": "An action-packed race in Montreal produced a ton of betting drama – even if it wasn't what was initially expected.",
+            "thumbnail": {
+                "image": {
+                    "title": "MONTREAL, QUEBEC - MAY 24: Lando Norris of Great Britain driving the (1) McLaren MCL40 Mercedes",
+                    "path": "/trackside-images/2026/F1_Grand_Prix_of_Canada/2278018073.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1779653611/trackside-images/2026/F1_Grand_Prix_of_Canada/2278018073.jpg",
+                    "public_id": "trackside-images/2026/F1_Grand_Prix_of_Canada/2278018073",
+                    "raw_transformation": "t_16by9Centre/f_auto/q_auto",
+                    "width": 4142,
+                    "height": 2761
+                }
+            },
+            "breaking": false,
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": true,
+            "primaryTagName": "Betting"
+        },
+        {
+            "id": "6redeA8Sgl9cK92lRvBarn",
+            "updatedAt": "2026-05-25T16:30:41.384Z",
+            "realUpdatedAt": "2026-05-25T16:30:43.445Z",
+            "locale": "en",
+            "title": "Bearman admits Haas 'didn't really deserve' P10 Canada finish",
+            "slug": "bearman-admits-we-didnt-really-deserve-p10-finish-in-canada-after-tough-weekend-for-haas",
+            "articleType": "News",
+            "metaDescription": "Ollie Bearman believes that \"we didn't really deserve\" to take a point away from the Canadian Grand Prix, as the Haas driver salvaged tenth place after a difficult weekend.",
+            "thumbnail": {
+                "image": {
+                    "title": "MONTREAL, QUEBEC - MAY 23: Sixteenth placed qualifier Oliver Bearman of Great Britain and Haas F1",
+                    "path": "/trackside-images/2026/F1_Grand_Prix_of_Canada___Sprint__Qualifying/2277887412.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1779572974/trackside-images/2026/F1_Grand_Prix_of_Canada___Sprint__Qualifying/2277887412.jpg",
+                    "public_id": "trackside-images/2026/F1_Grand_Prix_of_Canada___Sprint__Qualifying/2277887412",
+                    "raw_transformation": "t_16by9Centre/f_auto/q_auto",
+                    "width": 5425,
+                    "height": 3617
+                }
+            },
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "3RMx4EgnpkwA8sWSVkLLdX",
+            "updatedAt": "2026-05-26T09:00:42.560Z",
+            "realUpdatedAt": "2026-05-27T09:04:27.814Z",
+            "locale": "en",
+            "title": "Sainz pleased with 'strong' Canada result after tyre 'mistake'",
+            "slug": "sainz-praises-strong-result-in-canada-after-making-mistake-with-tyre-strategy",
+            "articleType": "News",
+            "metaDescription": "Carlos Sainz believes his ninth-place finish in the Canadian Grand Prix was a \"strong result\", especially after \"my mistake\" having decided to start Sunday's race on the intermediate tyre.",
+            "thumbnail": {
+                "image": {
+                    "title": "MONTREAL, QUEBEC - MAY 23: Fifteenth placed qualifier Carlos Sainz of Spain and Williams is",
+                    "path": "/trackside-images/2026/F1_Grand_Prix_of_Canada___Sprint__Qualifying/2277887339.jpg",
+                    "url": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1779572923/trackside-images/2026/F1_Grand_Prix_of_Canada___Sprint__Qualifying/2277887339.jpg",
+                    "public_id": "trackside-images/2026/F1_Grand_Prix_of_Canada___Sprint__Qualifying/2277887339",
+                    "raw_transformation": "t_16by9Centre/f_auto/q_auto",
+                    "width": 6000,
+                    "height": 4000
+                }
+            },
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "oC2xtjaCFU5NaMHN1RaTu",
+            "updatedAt": "2026-05-28T09:50:05.349Z",
+            "realUpdatedAt": "2026-05-28T11:53:39.528Z",
+            "locale": "en",
+            "title": "Catch up with R11 Qualifying of the F1 Sim Racing World Championship",
+            "slug": "livestream-watch-qualifying-from-round-11-of-the-2026-f1-sim-racing-world-championship",
+            "articleType": "Video",
+            "metaDescription": "The drivers will compete in the Sao Paulo Grand Prix for Round 11 of the 2026 F1 Sim Racing World Championship.\n\n",
+            "thumbnail": {
+                "image": {
+                    "title": "DSC03498.jpg",
+                    "path": "/fom-website/2026/F1 Sim Racing World Championship/DSC03498.jpg",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1779886134/fom-website/2026/F1%20Sim%20Racing%20World%20Championship/DSC03498.jpg",
+                    "public_id": "fom-website/2026/F1 Sim Racing World Championship/DSC03498",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 9389,
+                    "height": 5662
+                }
+            },
+            "mediaIcon": "Video",
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "3gsbmXijbkdHgvf8V9msZ8",
+            "updatedAt": "2026-05-27T10:44:43.372Z",
+            "realUpdatedAt": "2026-05-27T10:44:47.033Z",
+            "locale": "en",
+            "title": "How Mercedes hit back at rivals with their Canada upgrades",
+            "slug": "tech-weekly-how-mercedes-hit-back-at-their-rivals-with-a-potent-canadian-grand-prix-upgrade-package",
+            "articleType": "Technical",
+            "metaDescription": "Mercedes’ Montreal upgrade made a resounding debut, as the W17 showed an increased performance advantage over its rivals.",
+            "thumbnail": {
+                "image": {
+                    "title": "tech-weekly-mercedes-canada-upgrade-feature-header.png",
+                    "path": "/fom-website/2026/Technical/tech-weekly-mercedes-canada-upgrade-feature-header.png",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1779872869/fom-website/2026/Technical/tech-weekly-mercedes-canada-upgrade-feature-header.png",
+                    "public_id": "fom-website/2026/Technical/tech-weekly-mercedes-canada-upgrade-feature-header",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 1920,
+                    "height": 1080
+                }
+            },
+            "isProtected": true,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        },
+        {
+            "id": "3ePYhgFv6WcJZNVpE3psEe",
+            "updatedAt": "2026-05-28T18:16:03.333Z",
+            "realUpdatedAt": "2026-05-28T20:48:39.838Z",
+            "locale": "en",
+            "title": "CATCH-UP: Watch the F1 Sim Racing World Championship season finale",
+            "slug": "livestream-watch-all-the-action-from-round-12-of-the-2026-f1-sim-racing-world-championship",
+            "articleType": "Video",
+            "metaDescription": "Catch all the action from Round 12, which marks the finale of the 2026 F1 Sim Racing World Championship.\n\n",
+            "thumbnail": {
+                "image": {
+                    "title": "DSC03498.jpg",
+                    "path": "/fom-website/2026/F1 Sim Racing World Championship/DSC03498.jpg",
+                    "url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1779886134/fom-website/2026/F1%20Sim%20Racing%20World%20Championship/DSC03498.jpg",
+                    "public_id": "fom-website/2026/F1 Sim Racing World Championship/DSC03498",
+                    "raw_transformation": "f_auto/q_auto",
+                    "width": 9389,
+                    "height": 5662
+                }
+            },
+            "mediaIcon": "Video",
+            "isProtected": false,
+            "isExclusiveArticle": false,
+            "displayPrimaryTag": false
+        }
+    ]
+}
