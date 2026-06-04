@@ -6,5 +6,8 @@
     "**/.sfdx": true
   },
   "xml.preferences.showSchemaDocumentationType": "none",
-  "vibes.salesforce.defaultOrg": "f1-dev"
+  "vibes.salesforce.defaultOrg": "f1-dev",
+  "vibes.featureFlags": {
+    "enableExpressProvider": true
+  }
 }
