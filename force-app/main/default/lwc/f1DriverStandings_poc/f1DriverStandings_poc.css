@@ -6,17 +6,18 @@
     background-color: #F7F4F1;
     color: #000000;
     border-radius: 4px;
-    padding: 1.5rem;
+    padding: 0.75rem 1rem;
     font-family: 'Titillium Web', Arial, sans-serif;
     max-width: 340px;
+    overflow: hidden;
 }
 
 .standings-title {
     font-family: 'Titillium Web', Arial, sans-serif;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     font-weight: 800;
     letter-spacing: 0.08em;
-    margin: 0 0 1.25rem;
+    margin: 0 0 0.5rem;
     text-transform: uppercase;
     color: #000000;
 }
@@ -24,11 +25,11 @@
 .loading-container {
     display: flex;
     justify-content: center;
-    padding: 2rem 0;
+    padding: 1rem 0;
 }
 
 .error-container {
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .error-text {
@@ -40,9 +41,10 @@
     display: grid;
     grid-template-columns: 2rem 1fr 3rem;
     gap: 0.5rem;
-    padding: 0 0 0.5rem;
+    padding: 0.25rem 1rem 0.25rem;
+    margin: 0 -1rem;
     background-color: #F7F4F1;
-    border-bottom: 1px solid #38383f;
+    border-bottom: 2px solid #aaaaaa;
     font-size: 0.7rem;
     font-weight: 600;
     letter-spacing: 0.1em;
@@ -72,12 +74,12 @@
     grid-template-columns: 2rem 1fr 3rem;
     gap: 0.5rem;
     align-items: center;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid #1e1e2a;
+    padding: 0.55rem 0;
+    border-bottom: 1px solid #e0e0e0;
 }
 
 .driver-pos {
-    font-size: 1.25rem;
+    font-size: 0.75rem;
     font-weight: 700;
     color: #000000;
     text-align: center;
@@ -86,13 +88,13 @@
 .driver-info {
     display: flex;
     align-items: center;
-    gap: 0.625rem;
+    gap: 0.4rem;
     padding-left: 0.5rem;
 }
 
 .driver-avatar {
-    width: 2.25rem;
-    height: 2.25rem;
+    width: 1.75rem;
+    height: 1.75rem;
     border-radius: 50%;
     background-color: #e8002d;
     display: flex;
@@ -102,7 +104,7 @@
 }
 
 .driver-tla {
-    font-size: 0.55rem;
+    font-size: 0.5rem;
     font-weight: 700;
     letter-spacing: 0.05em;
     color: #ffffff;
@@ -111,24 +113,24 @@
 .driver-name-team {
     display: flex;
     flex-direction: column;
-    gap: 0.15rem;
+    gap: 0.05rem;
 }
 
 .driver-name {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
     font-weight: 700;
     color: #000000;
     line-height: 1.2;
 }
 
 .driver-team {
-    font-size: 0.75rem;
-    color: #000000;
+    font-size: 0.7rem;
+    color: #888888;
     line-height: 1.2;
 }
 
 .driver-pts {
-    font-size: 1.1rem;
+    font-size: 0.75rem;
     font-weight: 700;
     color: #000000;
     text-align: right;
@@ -137,16 +139,16 @@
 .cta-container {
     display: flex;
     justify-content: center;
-    margin-top: 1.25rem;
+    margin-top: 0.75rem;
 }
 
 .view-all-btn {
     background-color: #e8002d;
     color: #ffffff;
     border: none;
-    border-radius: 4px;
-    padding: 0.625rem 2rem;
-    font-size: 0.875rem;
+    border-radius: 999px;
+    padding: 0.4rem 1.5rem;
+    font-size: 0.65rem;
     font-weight: 700;
     letter-spacing: 0.05em;
     cursor: pointer;
