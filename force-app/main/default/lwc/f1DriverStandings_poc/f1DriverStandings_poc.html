@@ -1,0 +1,45 @@
+<template>
+    <div class="standings-card">
+        <h2 class="standings-title">2026 DRIVER STANDINGS</h2>
+
+        <template lwc:if={isLoading}>
+            <div class="loading-container">
+                <lightning-spinner alternative-text="Loading standings" size="medium"></lightning-spinner>
+            </div>
+        </template>
+
+        <template lwc:elseif={hasError}>
+            <div class="error-container">
+                <p class="error-text">{errorMessage}</p>
+            </div>
+        </template>
+
+        <template lwc:elseif={hasDrivers}>
+            <div class="table-header">
+                <span class="col-pos">POS.</span>
+                <span class="col-driver">DRIVER</span>
+                <span class="col-pts">PTS.</span>
+            </div>
+            <ol class="driver-list">
+                <template for:each={topDrivers} for:item="driver">
+                    <li key={driver.positionNumber} class="driver-row">
+                        <span class="driver-pos">{driver.positionNumber}</span>
+                        <div class="driver-info">
+                            <div class="driver-avatar" aria-hidden="true">
+                                <span class="driver-tla">{driver.driverTla}</span>
+                            </div>
+                            <div class="driver-name-team">
+                                <span class="driver-name">{driver.driverBroadcastName}</span>
+                                <span class="driver-team">{driver.teamName}</span>
+                            </div>
+                        </div>
+                        <span class="driver-pts">{driver.championshipPoints}</span>
+                    </li>
+                </template>
+            </ol>
+            <div class="cta-container">
+                <button class="view-all-btn" onclick={handleViewAll}>View all</button>
+            </div>
+        </template>
+    </div>
+</template>

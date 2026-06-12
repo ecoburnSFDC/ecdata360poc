@@ -1,0 +1,159 @@
+:host {
+    display: block;
+}
+
+.standings-card {
+    background-color: #15151e;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 1.5rem;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    max-width: 340px;
+}
+
+.standings-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    margin: 0 0 1.25rem;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.loading-container {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+.error-container {
+    padding: 1rem 0;
+}
+
+.error-text {
+    color: #e8002d;
+    font-size: 0.875rem;
+}
+
+.table-header {
+    display: grid;
+    grid-template-columns: 2rem 1fr 3rem;
+    gap: 0.5rem;
+    padding: 0 0 0.5rem;
+    border-bottom: 1px solid #38383f;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #6e6e78;
+}
+
+.col-pos {
+    text-align: center;
+}
+
+.col-driver {
+    padding-left: 0.5rem;
+}
+
+.col-pts {
+    text-align: right;
+}
+
+.driver-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.driver-row {
+    display: grid;
+    grid-template-columns: 2rem 1fr 3rem;
+    gap: 0.5rem;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #1e1e2a;
+}
+
+.driver-pos {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+}
+
+.driver-info {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    padding-left: 0.5rem;
+}
+
+.driver-avatar {
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background-color: #e8002d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.driver-tla {
+    font-size: 0.55rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: #ffffff;
+}
+
+.driver-name-team {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+.driver-name {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.2;
+}
+
+.driver-team {
+    font-size: 0.75rem;
+    color: #6e6e78;
+    line-height: 1.2;
+}
+
+.driver-pts {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: right;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.25rem;
+}
+
+.view-all-btn {
+    background-color: #e8002d;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 0.625rem 2rem;
+    font-size: 0.875rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.view-all-btn:hover,
+.view-all-btn:focus {
+    background-color: #c0001f;
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+}
